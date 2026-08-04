@@ -1,18 +1,18 @@
-# HBPD Shift Bid — SMS Terms &amp; Conditions
+# Iris42 Shift Bid — SMS Terms &amp; Conditions
 
 _Last updated: August 3, 2026_
 
 ## Program
 
-The Huntington Beach Police Department (HBPD) "Shift Bid" SMS program sends text messages to department sergeants for internal shift-bid scheduling only. These messages contain no marketing or promotional content.
+Iris42 Shift Bid is a personal shift-scheduling tool operated by an individual (contact: iris42hb@gmail.com). It sends text messages only to colleagues who have voluntarily opted in, for coordinating work shift-bid selections. It is not affiliated with any employer, agency, or organization, and contains no marketing or promotional content.
 
 ## Consent
 
-By providing your mobile number to the department and agreeing on the department's employee consent form, you agree to receive shift-scheduling text messages from HBPD. This is voluntary and is not a condition of employment or of participating in the shift bid.
+You opt in voluntarily by providing your mobile number and agreeing to receive shift-bid text notifications. Participation is entirely optional; consent is not required for anything and can be withdrawn at any time.
 
 ## Message frequency
 
-Message frequency is low — typically about one message per sergeant per bid cycle, with only a few bid cycles per year.
+Message frequency is low — typically about one message per participant per bid cycle, with only a few bid cycles per year.
 
 ## Cost
 
@@ -20,7 +20,7 @@ Message and data rates may apply, according to the terms of your mobile carrier 
 
 ## Opting out and help
 
-You can cancel at any time by replying **STOP** to any message; you will receive one confirmation message and no further texts. For help, reply **HELP** or email SWhite@hbpd.org.
+You can cancel at any time by replying **STOP** to any message; you will receive one confirmation message and no further texts. For help, reply **HELP** or email iris42hb@gmail.com.
 
 ## Carrier disclaimer
 
@@ -32,8 +32,8 @@ No mobile information is shared with third parties or affiliates for marketing o
 
 ## Contact
 
-Questions can be directed to SWhite@hbpd.org.
+Questions can be directed to iris42hb@gmail.com.
 
 ---
 
-Huntington Beach Police Department · Internal workforce scheduling use only.
+Personal scheduling tool · Not affiliated with any employer or agency.
